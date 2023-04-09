@@ -4,12 +4,12 @@ This project is part of the Udacity Machine Learning Engineer Nanodegree program
 ## Installation
 To run this project, you will need Python 3.x with the following libraries:
 
-⋅⋅* numpy
-⋅⋅* pandas
-⋅⋅* matplotlib
-⋅⋅* seaborn
-⋅⋅* scikit-learn
-⋅⋅* You can install these libraries using pip by running:
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
+* You can install these libraries using pip by running:
 
 ```pip install numpy pandas matplotlib seaborn scikit-learn```
 Alternatively, you can install Anaconda, a pre-packaged Python distribution that contains all the necessary libraries and tools for this project.
